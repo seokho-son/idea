@@ -1,2 +1,0 @@
-# idea
-Idea Wealth Spreading
