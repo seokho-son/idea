@@ -167,7 +167,7 @@ And the system will handle it end-to-end—without the user specifying cloud, im
 If you wish to cite this concept or reference Vibe Computing in academic or technical documents, please use the following format:
 
 **APA Style:**
-Son, S. (2025). Vibe Computing: A New Paradigm Beyond the Cloud*. Retrieved from [https://github.com/seokho-son/idea/vibe-computing.md](https://github.com/seokho-son/idea/vibe-computing.md) (or other official source)
+Son, S. (2025). Vibe Computing: A New Paradigm Beyond the Cloud*. Retrieved from [https://github.com/seokho-son/idea/blob/main/vibe-computing.md](https://github.com/seokho-son/idea/blob/main/vibe-computing.md) (or other official source)
 
 **BibTeX:**
 
@@ -177,7 +177,7 @@ Son, S. (2025). Vibe Computing: A New Paradigm Beyond the Cloud*. Retrieved from
   title        = {Vibe Computing: A New Paradigm Beyond the Cloud},
   year         = {2025},
   note         = {Proposed concept, Cloud-Barista Initiative},
-  howpublished = {\url{https://github.com/seokho-son/idea/vibe-computing.md}}
+  howpublished = {\url{https://github.com/seokho-son/idea/blob/main/vibe-computing.md}}
 }
 ```
 
