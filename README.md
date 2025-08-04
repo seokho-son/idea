@@ -20,7 +20,8 @@ While **Vibe Coding** refers to the practice of prompting large language models 
 The development of computing paradigms has expanded from centralized to distributed, and now to intent-based orchestration.
 Vibe Computing emerges as a natural evolution from prior models:
 
-* Mainframe Computing → Grid Computing → Cloud Computing → **Vibe Computing**
+* Grid Computing → Cloud Computing (abstracting infrastructure complexity as a service)
+* → **Vibe Computing** (abstracting the entire stack—users no longer manage, they simply intend)
 
 
 <div align="center">
